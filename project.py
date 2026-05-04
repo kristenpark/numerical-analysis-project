@@ -307,7 +307,7 @@ if __name__ == "__main__":
             + 0.5 * np.exp(-9 * 0.01 * np.pi**2 * T) * np.sin(3 * np.pi * X)
         )
         
-    '''
+
     # --- Problem 1.1 Part A: Forward Euler ---
     print("=" * 50)
     print("Problem 1.1 Part A: Forward Euler")
@@ -1100,7 +1100,7 @@ if __name__ == "__main__":
     plt.legend()
     plt.grid(True)
     plt.show()
-    '''
+
     
     
     # --- Bonus: Inverse problem ---
