@@ -3,6 +3,4 @@ Physics-Informed Neural Networks for Solving Differential Equations
 <br><br>
 Instructions for use:
 1. Install the following packages: numpy, matplotlib, torch, pandas.
-2. Run project.py.
-<br>
-Code for each problem is presented in order.
+2. Run project.py. Code for each problem is presented in order.
