@@ -1246,7 +1246,7 @@ if __name__ == "__main__":
     nu_recovered_ad = model.nu.item()
 
     # FDM
-    print("\nFDM-PINN:")
+    print("FDM-PINN:")
     model_fdm = PINN_with_nu(2, 64, 4).to(device)
 
     _, _ = train_pinn(model_fdm,
